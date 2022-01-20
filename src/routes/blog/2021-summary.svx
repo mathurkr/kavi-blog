@@ -1,0 +1,33 @@
+---
+title: '2021 Summary'
+slug: '2021-summary'
+outline: "Kavi Mathur's blog. Reposted from Linkedin on December 30th 2021"
+tags: []
+published_at: '30 December 2021'
+---
+
+<script lang="ts">
+    import PostHeader from '$lib/PostHeader.svelte';
+
+    const title= '2021 Summary'
+    const slug = '2021-summary'
+    const outline= "Kavi Mathur's blog. Reposted from Linkedin on December 30th 2021"
+    const tags = []
+    const published_at= '30 December 2021'
+
+
+</script>
+
+<PostHeader {title} {published_at} {tags} />
+
+*Note: This post was brought over from [LinkedIn](https://www.linkedin.com/posts/kavi-mathur_obsidian-svelte-linux-activity-6881697487640518656-piSp)
+Hi, I'm Kavi, a novice web developer! I wanted to start my post history with some of my accomplishments this year!
+- 🔬 Aided UC Irvine's Office of Research with data entry and implementing Kuali Research. I said goodbye to an amazing team who trusted me to come in at the start of a global pandemic, and I learned a lot about research administration along the way.
+
+- 💻 Started a new internship with GoldenComm, where I've been surrounded by supportive coworkers from every team, allowing me to learn a combination of dev, p.m., and marketing skills. This followed a fairly long amount of time where I was applying and improving my skills on the side, so to those still looking, you can do it! Don't be afraid to reach out to recruiters and current staff 💪🏾
+
+- ✅ At a point where I'm enjoying frontend development, both at work and in my free time. This felt like something that was hard to come by in college, and the change happened as I started to pick up what I want, when I wanted to. As I've been learning, #obsidian (https://obsidian.md/) has been an awesome tool for organizing all of these work and personal notes 👍🏾
+
+- 👨🏾‍💻 I got the chance to dip my feet into other tools, such as #svelte, GNU- #linux, #tailwindcss , and Bash scripts. Not to mention taking a deep dive into #wordpress by going past the admin view and into a theme's codebase. #reactjs has still been challenging for me though 😅
+
+Thanks for reading all the way through! If you made it this far, I appreciate you, and if we aren't connected, let's make it happen! There's a lotta events and challenges that I've left out, and I think it's perfectly normal to share whatever you feel comfortable with sharing. If you've nervous about posting like me, start with the small things ☺️ Amongst those sharing their large projects and job changes, there's always gonna be people interested in hearing about what you've learned.

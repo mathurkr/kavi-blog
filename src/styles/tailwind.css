@@ -4,6 +4,10 @@
 
 body{
     color: white;
-    background-color: black;
+    background-color:black;/*default in case browser doesn't support gradients*/
+    --tw-gradient-from: #000; /*from-black*/
+    --tw-gradient-to: #047857;/* to-emerald-700 */
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 0 0 / 0));
+    background: linear-gradient(var(--tw-gradient-stops)) fixed;
     font-family: helvetica, arial, sans-serif;
 }
